@@ -28,6 +28,6 @@ int main() {
          default :
          cout<<"ERROR! invalid Operator or number entered"<<endl;
     }
-    cout<<"The Answer is :-"<<ans<<endl;
+    cout<<"The Result "<<num1 << " "<< sign <<" "<<num2<<" is " <<ans<<endl;
 
 }
